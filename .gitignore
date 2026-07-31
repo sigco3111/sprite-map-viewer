@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+
+# Visual C++ 6 / Visual Studio (host build)
+*.opt
+*.plg
+*.ncb
+*.positions
+*.aps
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+Debug/
+Release/
+
+# Build output
+*.obj
+*.sbr
+*.exe
+*.pdb
+*.idb
+*.pch
+*.ilk
+*.bsc
+*.res
+*.tlog
+*.lastbuildstate
+BuildLog.htm
+
+# IDE / editor
+.vs/
+.vscode/
+*.swp
+
+# Backup / temp
+*.bak
+*.tmp
+ALZ*.TMP
+ALZ*.tmp
+~VC*.TMP
+~VC*.tmp
