@@ -3,7 +3,6 @@
 > Windows용 **DirectDraw 7 기반 스프라이트·맵 뷰어 & 콤보 테스터**.
 > `dnb-sprite-tool`로 만든 `.Spr` 시트와 `dnb-map-editor`로 만든 `.Map` 파일을 **실시간 렌더링 + 충돌 박스 시각화 + 콤보 테스트**할 수 있는 도구.
 > Win32 + DirectDraw 7 직접 API 사용 (MFC 미사용), 풀스크린 + 노멀 모드 지원.
-> 비영리 개인 프로젝트로, 본인이 직접 작성한 C++ 소스를 공개합니다.
 
 ![platform](https://img.shields.io/badge/platform-Windows-0078d4?style=flat-square) ![lang](https://img.shields.io/badge/C%2B%2B-VC%2B%2B%206.0-00599c?style=flat-square) ![graphics](https://img.shields.io/badge/graphics-DirectDraw7-red?style=flat-square) ![input](https://img.shields.io/badge/input-Keyboard%20%2B%20%24-green?style=flat-square) ![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
